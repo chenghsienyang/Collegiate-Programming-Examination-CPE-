@@ -1,1 +1,1 @@
-# Collegiate-Programming-Examination-CPE-
+# Collegiate-Programming-Examination CPE
